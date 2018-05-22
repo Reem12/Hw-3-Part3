@@ -1,0 +1,2 @@
+Diffrence in Line 2: File1: [hi] , File2: [hello]
+Diffrence in Line 3: File1: [huskies are cute] , File2: [last java class]
